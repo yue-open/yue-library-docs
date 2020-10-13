@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: yue-library-template-simple
-  profiles:
-    active:
-    - dev
-    include:    - yue-library-auth-service
